@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\campe\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\campe\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ExamenFinal.-1482940815.00" t="ExcludeRecursive" />
+    <e p="C:\Users\campe\Desktop\SourceCode\ExamenFinal" t="IncludeFlat">
+      <e p="ExamenFinal" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controller" t="Include">
+          <e p="ConexionBD.cs" t="Include" />
+        </e>
+        <e p="CProxy.cs" t="Include" />
+        <e p="ExamenFinal.csproj" t="IncludeRecursive" />
+        <e p="Model" t="Include">
+          <e p="Administrador.cs" t="Include" />
+          <e p="Administrador.Designer.cs" t="Include" />
+          <e p="Administrador.resx" t="Include" />
+          <e p="Control.cs" t="Include" />
+          <e p="Control.Designer.cs" t="Include" />
+          <e p="Control.resx" t="Include" />
+          <e p="Historial.cs" t="Include" />
+          <e p="Historial.Designer.cs" t="Include" />
+          <e p="Historial.resx" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="View" t="Include">
+          <e p="Form1.cs" t="Include" />
+          <e p="Form1.Designer.cs" t="Include" />
+          <e p="Form1.resx" t="Include" />
+          <e p="SiAdmin.cs" t="Include" />
+          <e p="SiAdmin.Designer.cs" t="Include" />
+          <e p="SiAdmin.resx" t="Include" />
+          <e p="SiEmple.cs" t="Include" />
+          <e p="SiEmple.Designer.cs" t="Include" />
+          <e p="SiEmple.resx" t="Include" />
+          <e p="SiVigi.cs" t="Include" />
+          <e p="SiVigi.Designer.cs" t="Include" />
+          <e p="SiVigi.resx" t="Include" />
+        </e>
+      </e>
+      <e p="ExamenFinal.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
